@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/css/bootstrap-responsive.css,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/css/bootstrap-responsive.css)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/css/bootstrap-responsive.min.css,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/css/bootstrap-responsive.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/css/bootstrap.css,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/css/bootstrap.css)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/css/bootstrap.min.css,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/css/bootstrap.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/img/glyphicons-halflings-white.png,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/img/glyphicons-halflings-white.png)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/img/glyphicons-halflings.png,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/img/glyphicons-halflings.png)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/js/bootstrap.js,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/js/bootstrap.js)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/bootstrap/js/bootstrap.min.js,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/bootstrap/js/bootstrap.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/images/favicon.png,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/images/favicon.png)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/javascripts/jquery-1.9.0.min.js,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/javascripts/jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/public/stylesheets/main.css,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/public/stylesheets/main.css)[0m

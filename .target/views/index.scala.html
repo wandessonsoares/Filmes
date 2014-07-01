@@ -1,0 +1,29 @@
+@(message: String)
+
+@main("Top 100 filmes Cult") {
+
+   <style>
+		.starter-template {
+			padding: 40px 15px;
+			text-align: center;
+		}
+	</style>
+	
+	<div class="navbar navbar-inverse">
+	  <div class="navbar-inner">
+	    <a class="brand" href="#">Top 100 filmes Cult</a>
+	    <ul class="nav">
+	      <li><a href="/diretor/lista">Diretores</a></li> 
+	      <li><a href="/sobre">Sobre o sistema</a></li>
+	      <li><a href="/play">Sobre o Play Framework</a></li>
+	      <li><a href="http://getbootstrap.com/">Sobre o Bootstrap</a></li>
+	    </ul>
+	  </div>
+	</div>
+	<div class="container">
+		<div class="starter-template">
+			<h1>Top 100 filmes Cult</h1>
+			<p class="lead">@message</p>
+		</div>
+	</div>
+}

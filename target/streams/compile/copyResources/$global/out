@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/conf/application.conf,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/conf/evolutions,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/conf/routes,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/conf/evolutions/default,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/media/Backup/java/workspace_play/filmes/conf/evolutions/default/1.sql,/media/Backup/java/workspace_play/filmes/target/scala-2.10/classes/evolutions/default/1.sql)[0m
